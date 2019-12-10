@@ -1,0 +1,83 @@
+article {
+    margin-top: 85px;
+}
+
+article a {
+    font-size: 20px ;
+    font-weight: bold;
+    display: block;
+}
+
+article div a {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.uk-button:not(:disabled), .uk-checkbox, .uk-input {
+    border-radius: 30px;
+}
+
+div.uk-background-cover {
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+div.uk-container {
+    text-align: justify;
+}
+
+div.uk-panel {
+    margin-right: -10px;
+}
+
+div.uk-panel.uk-first-column p {
+    margin-left: 0px;
+}
+
+footer {
+    margin-top: 85px;
+}
+
+h5, h4 {
+    color: black;
+    font-weight: bold;
+}
+
+div img, video {
+    border-radius: 30px;
+    border: 10px solid transparent;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+li p {
+    font-size: medium;
+}
+
+p {
+    margin: 10px 10px 10px 10px;
+}
+
+p, label {
+    font-family: AppleGothic, serif;
+    font-size: large;
+    color: black;
+}
+
+p.uk-margin-small {
+    font-size: medium;
+    margin: 0px 0px 0px 0px;
+}
+
+p.uk-text-small.uk-text-center {
+    color: #999999;
+}
+
+.uk-align-left, .uk-align-right {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+}
